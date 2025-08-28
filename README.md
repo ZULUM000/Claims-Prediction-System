@@ -33,8 +33,9 @@ By leveraging classical machine learning algorithms, deep learning techniques, a
 4. **Training & Testing** → Evaluation using selected metrics.
 5. **Interpretability** → SHAP & LIME for transparency.
 6. **Deployment** → Flask backend + web frontend hosted on Google Cloud.
-<img width="808" height="702" alt="image" src="https://github.com/user-attachments/assets/64e2d36e-10e6-481b-9882-3dd3437ef625" />
-<img width="941" height="456" alt="image" src="https://github.com/user-attachments/assets/cc0fc8d8-6af2-4f3a-a28d-4730204452b0" />
+
+<img width="809" height="702" alt="Screenshot 2025-08-28 014217" src="https://github.com/user-attachments/assets/4d245f4f-f6d2-4cf2-bf0e-2ff21bf493e2" />
+<img width="941" height="456" alt="Screenshot 2025-08-28 014320" src="https://github.com/user-attachments/assets/cc259f71-54e6-4a69-9ac0-444a755fe7f1" />
 
 
 
@@ -49,13 +50,17 @@ By leveraging classical machine learning algorithms, deep learning techniques, a
 ---
 
 ## 📂 Screenshots
-<img width="1919" height="653" alt="Screenshot 2025-07-08 001411" src="https://github.com/user-attachments/assets/2d8b346c-294d-4521-b2f0-5e749d9e10a7" />
-<img width="1919" height="965" alt="Screenshot 2025-07-08 001457" src="https://github.com/user-attachments/assets/0cf6401c-cd9c-4ba7-a653-f29105d4a7d8" />
-<img width="1919" height="940" alt="Screenshot 2025-07-08 001600" src="https://github.com/user-attachments/assets/99baceb7-ae32-4f91-b848-4ad8e7286c47" />
-<img width="1919" height="1019" alt="Screenshot 2025-07-08 002543" src="https://github.com/user-attachments/assets/fb550e09-d5d9-4e6e-8aae-829e7bc67f54" />
-<img width="1919" height="752" alt="Screenshot 2025-07-08 002627" src="https://github.com/user-attachments/assets/42b5adc3-82c8-4d5e-8fe5-d864493b2cf4" />
-<img width="1919" height="1007" alt="Screenshot 2025-07-08 002738" src="https://github.com/user-attachments/assets/5f062895-fe27-4d8e-870e-728fa9c1b77b" />
-<img width="1919" height="645" alt="Screenshot 2025-07-08 002908" src="https://github.com/user-attachments/assets/ee3d377b-609c-40c4-916c-bcde701ff4d5" />
+<img width="1919" height="653" alt="Screenshot 2025-07-08 001411" src="https://github.com/user-attachments/assets/ed67d57e-7606-4d39-bafd-fb357f6f990d" />
+
+<img width="1919" height="965" alt="Screenshot 2025-07-08 001457" src="https://github.com/user-attachments/assets/f3559635-5499-4082-b01a-08ebeea75f78" />
+
+<img width="1919" height="940" alt="Screenshot 2025-07-08 001600" src="https://github.com/user-attachments/assets/b3b6d080-3bab-40cb-a7db-f681f5128df4" />
+
+<img width="1919" height="752" alt="Screenshot 2025-07-08 002627" src="https://github.com/user-attachments/assets/8de0c3b9-5f84-4226-979e-55734ebc1960" />
+
+
+<img width="1919" height="1007" alt="Screenshot 2025-07-08 002738" src="https://github.com/user-attachments/assets/37e8559f-7c3d-4f90-b585-e794e038f6cf" />
+
 
 
 
